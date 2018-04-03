@@ -1,2 +1,2 @@
-# Any question about this project, please contact with me. 
+# Please contact me if you have any questions 
 This is the code of 
